@@ -72,21 +72,26 @@ Book ID: 1, Title: 'Python for Beginners', Author: Andika Rahman Pratama
 Pilih menu (1-6): 5
 Masukkan ID untuk dicari: 101
 Magazine ID: 101, Title: 'Tech Today', Issue No: 45
+```
 
 ---
 
 ## Screenshot Penggunaan
 
 ### Menu Interaktif
+
 ![Menu Interaktif](images/menu.png)
 
 ### Menambahkan Item
+
 ![Tambah Item](images/add_item.png)
 
 ### Menampilkan Semua Item
+
 ![Daftar Item](images/show_items.png)
 
 ### Mencari Item
+
 ![Cari Item](images/search_item.png)
 
 ---
@@ -106,4 +111,7 @@ Magazine ID: 101, Title: 'Tech Today', Issue No: 45
       + show_items()
       + find_by_title()
       + find_by_id()
+
+```
+
 ```
