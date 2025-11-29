@@ -106,7 +106,7 @@ tasksContainer.innerHTML = tasksToRender.map(task => `
       ${task.description ? `<p class="task-desc">${task.description}</p>` : ''}
       <div class="task-meta">
         <span class="task-priority ${task.priority}">
-          ${task.priority === 'high' ? '🔴' : task.priority === 'medium' ? '🟡' : '🟢'} 
+          ${task.priority === 'Tinggi' ? "" : task.priority === 'Sedang' ? "" : ""} 
           ${task.priority.charAt(0).toUpperCase() + task.priority.slice(1)}
         </span>
         ${task.dueDate ? `<span class="task-date"> ${formatDate(task.dueDate)}</span>` : ''}
