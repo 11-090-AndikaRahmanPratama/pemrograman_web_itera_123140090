@@ -73,6 +73,8 @@ Pilih menu (1-6): 5
 Masukkan ID untuk dicari: 101
 Magazine ID: 101, Title: 'Tech Today', Issue No: 45
 
+---
+
 ## Screenshot Penggunaan
 
 ### Menu Interaktif
@@ -87,6 +89,7 @@ Magazine ID: 101, Title: 'Tech Today', Issue No: 45
 ### Mencari Item
 ![Cari Item](images/search_item.png)
 
+---
 
 ## Diagram Class
 
